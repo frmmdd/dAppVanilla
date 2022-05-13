@@ -1,3 +1,4 @@
 # dAppVanilla
-## git clone 
-## npm install dependencies
+## git clone https://github.com/frmmdd/dAppVanilla.git
+### cd dAppVanilla
+### npm install dependencies
